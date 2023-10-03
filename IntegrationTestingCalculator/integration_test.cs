@@ -1,5 +1,4 @@
 using Calculator;
-using IntegrationTestingCalculator;
 namespace IntegrationTestingCalculator
 {
     public class integration_test
