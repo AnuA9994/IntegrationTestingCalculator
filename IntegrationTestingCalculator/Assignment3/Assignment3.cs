@@ -83,7 +83,7 @@ namespace IntegrationTestingCalculator.Assignment3
             Thread.Sleep(100);
         }
         [Test]
-        public void Login()
+        public void PurchaseItem()
         {
             userNametxtbox.SendKeys("standard_user");
             userPasswordtxtbox.SendKeys("secret_sauce");
